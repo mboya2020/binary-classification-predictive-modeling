@@ -82,7 +82,7 @@ Null values are present in yr_renovated, view, and waterfront. I filled view nul
 
 4) The relationship between the independent and dependent variable must be linear
 
-In order to ultimately determine which trait best predicts the outcome of our target variable, price, I evaluated these hypotheses against the data. Ultimately, condition, bedrooms, floors, and square feet of living space were the features (after log normalization) that satisfied these criteria. These were the outcomes:
+In order to ultimately determine which predictor best predicts the outcome of our target variable, price, I evaluated these hypotheses against the data. Ultimately, condition, bedrooms, floors, and square feet of living space were the features (after log normalization) that satisfied these criteria. These were the outcomes:
 
 
 # Findings
